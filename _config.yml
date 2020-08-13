@@ -61,9 +61,9 @@ gitalk:
   enable: true    # 是否开启Gitalk评论
   clientID: 5270f4063409787bf2e8                            #生成的clientID
   clientSecret: ac8d5a413393ba929a9cd72d89e5023f9d397344    #生成的clientSecret
-  repo: MSKNWK.github.io    #仓库名称
+  repo: blog.misakanetwork.ml    #仓库名称
   owner: MSKNWK    # github用户名
-  admin: TNXG
+  admin: MSKNWK
   distractionFreeMode: true # 是否启用类似FB的阴影遮罩
 
 
